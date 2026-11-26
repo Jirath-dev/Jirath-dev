@@ -47,13 +47,7 @@ status     : เปิดรับงานระบบภายในองค�
 
 <img alt="Tech stack" src="https://skillicons.dev/icons?i=cs,dotnet,py,js,vue,html,css,docker,git,github,postgres,mysql,windows,visualstudio&theme=dark&perline=14" />
 
-<img alt="SQL Server" src="assets/badges/badge-sqlserver.svg" />
-<img alt="SSIS" src="assets/badges/badge-ssis.svg" />
-<img alt="VB.NET" src="assets/badges/badge-vbnet.svg" />
-<img alt="DevExpress" src="assets/badges/badge-devexpress.svg" />
-<img alt="T-SQL" src="assets/badges/badge-tsql.svg" />
-<img alt="PowerShell" src="assets/badges/badge-powershell.svg" />
-<img alt="VBA" src="assets/badges/badge-vba.svg" />
+<img alt="SQL Server" src="assets/badges/badge-sqlserver.svg" /> <img alt="SSIS" src="assets/badges/badge-ssis.svg" /> <img alt="VB.NET" src="assets/badges/badge-vbnet.svg" /> <img alt="DevExpress" src="assets/badges/badge-devexpress.svg" /> <img alt="T-SQL" src="assets/badges/badge-tsql.svg" /> <img alt="PowerShell" src="assets/badges/badge-powershell.svg" /> <img alt="VBA" src="assets/badges/badge-vba.svg" />
 
 ### `> git log --stats`
 
