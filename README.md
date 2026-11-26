@@ -69,6 +69,11 @@ status     : เปิดรับงานระบบภายในองค�
 </div>
 
 <!--
+  หมายเหตุ: badge ทั้งหมดใน assets/badges/ ถูก self-host ไว้ (เดิมดึงจาก shields.io)
+  เพราะ GitHub ดึงรูปผ่าน camo proxy แล้วบางครั้งได้ 504 ทำให้ badge เป็นรูปแตก
+  ถ้าจะเพิ่ม badge ใหม่ ให้วาง SVG ไว้ใน assets/badges/ แล้วอ้าง path สัมพัทธ์แบบเดียวกัน
+  (komarev / skillicons / github-readme-stats / streak ยังดึงจากภายนอก เพราะเป็นข้อมูลสด)
+
   หมายเหตุ: การ์ดสถิติจาก github-readme-stats เวอร์ชันสาธารณะจะนับเฉพาะ repo public
   ถ้าต้องการให้นับ private ด้วย ต้อง self-host เองบน Vercel พร้อม Personal Access Token
   และอย่าลืมเปิด Settings → Public profile → "Include private contributions on my profile"
