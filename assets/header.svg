@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Jirath Srisonthi — Developer">
+  <title>Jirath Srisonthi — Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#101720"/>
+      <stop offset="100%" stop-color="#0A0E13"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="52%" stop-color="#79C0FF"/>
+      <stop offset="100%" stop-color="#A371F7"/>
+    </linearGradient>
+    <linearGradient id="underline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="65%" stop-color="#A371F7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A371F7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.35" r="0.55">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#C9D1D9" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="15.5" fill="none" stroke="#30363D" stroke-width="1"/>
+
+  <!-- window chrome -->
+  <circle cx="38" cy="38" r="6" fill="#FF5F56"/>
+  <circle cx="60" cy="38" r="6" fill="#FFBD2E"/>
+  <circle cx="82" cy="38" r="6" fill="#27C93F"/>
+  <line x1="0" y1="64" x2="1200" y2="64" stroke="#21262D" stroke-width="1"/>
+  <text x="104" y="43" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#6E7681">jirath@dev</text>
+  <text x="196" y="43" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#484F58">—</text>
+  <text x="214" y="43" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#8B949E">~/profile</text>
+
+  <!-- faint glyph -->
+  <text x="1146" y="228" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace"
+        font-size="150" font-weight="700" fill="#C9D1D9" fill-opacity="0.055">&lt;/&gt;</text>
+
+  <!-- prompt -->
+  <text x="72" y="112" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#3FB950">❯</text>
+  <text x="94" y="112" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#8B949E">whoami</text>
+
+  <!-- name -->
+  <text x="72" y="186" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace"
+        font-size="64" font-weight="700" letter-spacing="1" fill="url(#accent)">JIRATH SRISONTHI</text>
+  <rect x="74" y="202" width="620" height="3" rx="1.5" fill="url(#underline)"/>
+
+  <!-- thai name -->
+  <text x="72" y="240" font-family="'Leelawadee UI', 'Noto Sans Thai', 'Sarabun', sans-serif"
+        font-size="22" fill="#C9D1D9" fill-opacity="0.88">จิรัฏฐ์ ศรีสนธิ (โอม)</text>
+
+  <!-- role pill -->
+  <rect x="72" y="258" width="122" height="30" rx="15" fill="#58A6FF" fill-opacity="0.10" stroke="#58A6FF" stroke-opacity="0.45"/>
+  <text x="133" y="278" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace"
+        font-size="14" font-weight="600" fill="#58A6FF">Developer</text>
+
+  <!-- meta -->
+  <text x="210" y="278" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#6E7681">
+    <tspan fill="#3FB950">●</tspan> Nonthaburi, Thailand
+  </text>
+  <text x="210" y="300" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#484F58">
+    .NET · SQL Server · SSIS · Document Automation
+  </text>
+
+  <!-- corner accent -->
+  <path d="M1200 84 L1200 0" stroke="url(#accent)" stroke-opacity="0" stroke-width="0"/>
+  <line x1="1104" y1="300" x2="1128" y2="300" stroke="#30363D" stroke-width="1"/>
+  <line x1="1136" y1="300" x2="1160" y2="300" stroke="#30363D" stroke-width="1"/>
+  <line x1="1168" y1="300" x2="1192" y2="300" stroke="#58A6FF" stroke-opacity="0.5" stroke-width="1"/>
+</svg>
