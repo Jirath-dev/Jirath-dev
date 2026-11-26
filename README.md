@@ -38,8 +38,6 @@ status     : เปิดรับงานระบบภายในองค�
 | :--- | :--- | :--- |
 | **DKEFGenTool** | เครื่องมือสร้างฟอร์ม DevExpress `.repx` แบบกำหนดเอง | `C#` · `DevExpress` |
 | **Pdf2Repx** | แปลงฟอร์ม PDF (แบบตรวจ VEC) → Report `.repx` อัตโนมัติ | `C#` · `PDF parsing` |
-| **edi.dft.go.th** | ระบบออกหนังสือรับรองถิ่นกำเนิดสินค้า (FORM D/E) | `VB.NET` · `SQL Server` |
-| **backoffice.dft.go.th** | ระบบหนังสือรับรอง ฝั่งเจ้าหน้าที่ | `VB.NET` · `SQL Server` |
 | **WorkTrack** | ระบบบันทึก/ติดตามงานภายในทีม | `JavaScript` |
 | **pdf-datadict** | สร้าง Data Dictionary (Excel) จาก PDF | `Python` |
 
