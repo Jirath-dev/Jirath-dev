@@ -4,17 +4,17 @@
 
 <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Developer+%C2%B7+Nonthaburi%2C+Thailand;Enterprise+.NET+%2B+SQL+Server+%2B+SSIS;Automating+the+boring+paperwork;PDF+%E2%86%92+DevExpress+reports" />
 
-<a href="https://github.com/Jirath-dev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Jirath--dev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img alt="Nonthaburi, Thailand" src="https://img.shields.io/badge/Nonthaburi-Thailand-3FB950?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<a href="https://github.com/Jirath-dev?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-View-58A6FF?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://github.com/Jirath-dev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Jirath--dev-181717?style=for-the-badge&logo=github&logoColor=white&v=2" /></a>
+<img alt="Nonthaburi, Thailand" src="https://img.shields.io/badge/Nonthaburi-Thailand-3FB950?style=for-the-badge&logo=googlemaps&logoColor=white&v=2" />
+<a href="https://github.com/Jirath-dev?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-View-58A6FF?style=for-the-badge&logo=git&logoColor=white&v=2" /></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Jirath-dev&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 <!--
   ═══ เติมลิงก์จริงตรงนี้ แล้วลบเครื่องหมาย comment ด้านล่างออก ═══
   แทน YOUR-ID ด้วย LinkedIn ของคุณ และ YOUR@EMAIL ด้วยอีเมลจริง
 
-<a href="https://www.linkedin.com/in/YOUR-ID/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR@EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-ID/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2" /></a>
+<a href="mailto:YOUR@EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&v=2" /></a>
 -->
 
 </div>
@@ -47,13 +47,13 @@ status     : เปิดรับงานระบบภายในองค�
 
 <img alt="Tech stack" src="https://skillicons.dev/icons?i=cs,dotnet,py,js,vue,html,css,docker,git,github,postgres,mysql,windows,visualstudio&theme=dark&perline=14" />
 
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img alt="SSIS" src="https://img.shields.io/badge/SSIS-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img alt="VB.NET" src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img alt="DevExpress" src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=devexpress&logoColor=white" />
-<img alt="T-SQL" src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-<img alt="VBA" src="https://img.shields.io/badge/VBA-15855D?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&v=2" />
+<img alt="SSIS" src="https://img.shields.io/badge/SSIS-0078D4?style=flat-square&logo=microsoft&logoColor=white&v=2" />
+<img alt="VB.NET" src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&v=2" />
+<img alt="DevExpress" src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=devexpress&logoColor=white&v=2" />
+<img alt="T-SQL" src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&v=2" />
+<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white&v=2" />
+<img alt="VBA" src="https://img.shields.io/badge/VBA-15855D?style=flat-square&logo=microsoftexcel&logoColor=white&v=2" />
 
 ### `> git log --stats`
 
